@@ -1,0 +1,9 @@
+date,region,product,units,unit_price
+2026-01-05,Nairobi,Widget,10,250
+2026-01-06,Nairobi,Gadget,5,600
+2026-01-06,Mombasa,Widget,8,250
+2026-01-07,Kisumu,Widget,,250
+2026-01-07,Nairobi,Gadget,3,600
+2026-01-08,Mombasa,Gadget,7,
+2026-01-08,Kisumu,Widget,12,250
+2026-01-08,Kisumu,Widget,12,250
